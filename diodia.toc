@@ -1,0 +1,9 @@
+\contentsline {section}{Διαδρομή Αθήνα$\,\to \,$Λαμία}{2}
+\contentsline {subsection}{Αποφυγή διοδίων Αφιδνών}{2}
+\contentsline {subsection}{Αποφυγή διοδίων Θήβας}{6}
+\contentsline {subsection}{Αποφυγή διοδίων Τραγάνας}{8}
+\contentsline {subsection}{Αποφυγή διοδίων Λαμίας}{12}
+\contentsline {paragraph}{Μέχρι τη Λαμία εξοικονομήσαμε}{14}
+\contentsline {section}{Διαδρομή Λαμία$\,\to \,$Αθήνα}{15}
+\contentsline {subsection}{Αποφυγή διοδίων Λαμίας}{15}
+\contentsline {subsection}{Αποφυγή διοδίων Τραγάνας}{19}
