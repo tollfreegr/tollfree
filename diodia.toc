@@ -1,9 +1,12 @@
-\contentsline {section}{Διαδρομή Αθήνα$\,\to \,$Λαμία}{2}
-\contentsline {subsection}{Αποφυγή διοδίων Αφιδνών}{2}
-\contentsline {subsection}{Αποφυγή διοδίων Θήβας}{6}
-\contentsline {subsection}{Αποφυγή διοδίων Τραγάνας}{8}
-\contentsline {subsection}{Αποφυγή διοδίων Λαμίας}{12}
-\contentsline {paragraph}{Μέχρι τη Λαμία εξοικονομήσαμε}{14}
-\contentsline {section}{Διαδρομή Λαμία$\,\to \,$Αθήνα}{15}
-\contentsline {subsection}{Αποφυγή διοδίων Λαμίας}{15}
-\contentsline {subsection}{Αποφυγή διοδίων Τραγάνας}{19}
+\contentsline {section}{Διαδρομή Αθήνα προς Λαμία}{2}{section*.2}
+\contentsline {subsection}{Αποφυγή διοδίων Αφιδνών}{2}{section*.3}
+\contentsline {subsection}{Αποφυγή διοδίων Θήβας}{6}{section*.11}
+\contentsline {subsection}{Αποφυγή διοδίων Τραγάνας}{8}{section*.16}
+\contentsline {subsection}{Αποφυγή διοδίων Λαμίας}{12}{section*.23}
+\contentsline {paragraph}{Μέχρι τη Λαμία εξοικονομήσαμε}{14}{section*.27}
+\contentsline {section}{Διαδρομή Λαμία προς Αθήνα}{15}{section*.27}
+\contentsline {subsection}{Αποφυγή διοδίων Λαμίας}{15}{section*.28}
+\contentsline {subsection}{Αποφυγή διοδίων Τραγάνας}{19}{section*.36}
+\contentsline {subsection}{Αποφυγή διοδίων Θήβας}{23}{section*.43}
+\contentsline {subsection}{Αποφυγή διοδίων Αφιδνών}{26}{section*.49}
+\contentsline {paragraph}{Μέχρι την Αθήνα εξοικονομήσαμε}{29}{section*.58}
