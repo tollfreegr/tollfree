@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99996 (TeX Live 2016/Debian) (preloaded format=xelatex 2017.4.20)  12 JUL 2017 09:47
+This is XeTeX, Version 3.14159265-2.6-0.99996 (TeX Live 2016/Debian) (preloaded format=xelatex 2017.4.20)  8 SEP 2017 12:25
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1272,27 +1272,24 @@ File: images/athina-lamia/lamia/lamia5.PNG Graphic file (type QTm)
 File: images/athina-lamia/lamia/lamia6.PNG Graphic file (type QTm)
 
 <use  "images/athina-lamia/lamia/lamia6.PNG" > [13] [14]) (./lamia-athina.tex
-File: images/lamia-athina/lamia/lamia_001.jpg Graphic file (type QTm)
-
-<use  "images/lamia-athina/lamia/lamia_001.jpg" >
 File: images/lamia-athina/lamia/lamia_002.jpg Graphic file (type QTm)
 
-<use  "images/lamia-athina/lamia/lamia_002.jpg" > [15]
+<use  "images/lamia-athina/lamia/lamia_002.jpg" >
 File: images/lamia-athina/lamia/lamia_003.jpg Graphic file (type QTm)
 
 <use  "images/lamia-athina/lamia/lamia_003.jpg" >
 File: images/lamia-athina/lamia/lamia_004.jpg Graphic file (type QTm)
 
-<use  "images/lamia-athina/lamia/lamia_004.jpg" > [16]
+<use  "images/lamia-athina/lamia/lamia_004.jpg" > [15]
 File: images/lamia-athina/lamia/lamia_005.jpg Graphic file (type QTm)
 
-<use  "images/lamia-athina/lamia/lamia_005.jpg" >
+<use  "images/lamia-athina/lamia/lamia_005.jpg" > [16]
 File: images/lamia-athina/lamia/lamia_006.jpg Graphic file (type QTm)
 
-<use  "images/lamia-athina/lamia/lamia_006.jpg" > [17]
+<use  "images/lamia-athina/lamia/lamia_006.jpg" >
 File: images/lamia-athina/lamia/lamia_007.jpg Graphic file (type QTm)
 
-<use  "images/lamia-athina/lamia/lamia_007.jpg" > [18]
+<use  "images/lamia-athina/lamia/lamia_007.jpg" > [17] [18]
 File: images/lamia-athina/tragana/tragana_008.jpg Graphic file (type QTm)
 
 <use  "images/lamia-athina/tragana/tragana_008.jpg" >
@@ -1364,10 +1361,10 @@ Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 38.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 38.
  ) 
 Here is how much of TeX's memory you used:
- 32545 strings out of 493068
- 648465 string characters out of 6137720
+ 32543 strings out of 493068
+ 648413 string characters out of 6137720
  632803 words of memory out of 5000000
- 36045 multiletter control sequences out of 15000+600000
+ 36044 multiletter control sequences out of 15000+600000
  11523 words of font info for 66 fonts, out of 8000000 for 9000
  1347 hyphenation exceptions out of 8191
  55i,8n,66p,10371b,435s stack positions out of 5000i,500n,10000p,200000b,80000s
